@@ -1,6 +1,6 @@
 
 function Home() {
-    return <h1>Testes e mais testes</h1>
+    return <h1>Teste tá no ar!</h1>
     
 }
 
